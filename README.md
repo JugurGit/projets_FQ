@@ -10,4 +10,5 @@ Ce portfolio est actuellement en cours de finalisation et sera complètement pr�
 - Automate de Trading sur le marché des FX avec stratégies de trading associés aux métriques de Wasserstein (pair-trading, mean-reversion, ...)
 - Pricer d'options EU (Black-Scholes, Heston), AM, Exotic (Digital/Binary, Barrier, Asian, ...), avec coûts de transactions
 - Pricer d'obligations (Vasicek, CIR, Ho-Lee, Hull-White, HJM)
+
 Merci de votre visite et à très bientôt pour la version finale ! 🤝
