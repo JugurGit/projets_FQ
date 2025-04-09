@@ -2,7 +2,7 @@
 
 Bienvenue sur mon portfolio de projets en finance quantitative ! 📊✨
 
-Ce portfolio est actuellement en cours de finalisation et sera complètement prêt début janvier (06/01 à 23h59). ⏳ En attendant, n'hésitez pas à jeter un œil à l'avancement et aux différents aperçus des projets sur lesquels je travaille. 🚀 Voici ci-dessous une liste non exhaustive des projets qui arriveront prochainement : 
+Ce portfolio est actuellement en cours de finalisation et sera complètement prêt début mai. ⏳ En attendant, n'hésitez pas à jeter un œil à l'avancement et aux différents aperçus des projets sur lesquels je travaille. 🚀 Voici ci-dessous une liste non exhaustive des projets qui arriveront prochainement : 
 - Calibration de Réseaux de Neuronnes pour le pricing d'options (Heston/Bates)
 - Deep Hedging
 - Deep Pricing
